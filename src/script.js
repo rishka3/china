@@ -13,7 +13,6 @@ function onYouTubePlayerAPIReady() {
 }
 
 window.addEventListener('DOMContentLoaded', () => {
-  ////////////
 
   const navContainer = document.querySelector('.menu__items');
 
